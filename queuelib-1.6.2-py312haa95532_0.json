@@ -1,0 +1,57 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\queuelib-1.6.2-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/queuelib-1.6.2.dist-info/INSTALLER",
+    "Lib/site-packages/queuelib-1.6.2.dist-info/LICENSE",
+    "Lib/site-packages/queuelib-1.6.2.dist-info/METADATA",
+    "Lib/site-packages/queuelib-1.6.2.dist-info/RECORD",
+    "Lib/site-packages/queuelib-1.6.2.dist-info/REQUESTED",
+    "Lib/site-packages/queuelib-1.6.2.dist-info/WHEEL",
+    "Lib/site-packages/queuelib-1.6.2.dist-info/direct_url.json",
+    "Lib/site-packages/queuelib-1.6.2.dist-info/top_level.txt",
+    "Lib/site-packages/queuelib/__init__.py",
+    "Lib/site-packages/queuelib/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/queuelib/__pycache__/pqueue.cpython-312.pyc",
+    "Lib/site-packages/queuelib/__pycache__/queue.cpython-312.pyc",
+    "Lib/site-packages/queuelib/__pycache__/rrqueue.cpython-312.pyc",
+    "Lib/site-packages/queuelib/pqueue.py",
+    "Lib/site-packages/queuelib/queue.py",
+    "Lib/site-packages/queuelib/rrqueue.py",
+    "Lib/site-packages/queuelib/tests/__init__.py",
+    "Lib/site-packages/queuelib/tests/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/queuelib/tests/__pycache__/test_pqueue.cpython-312.pyc",
+    "Lib/site-packages/queuelib/tests/__pycache__/test_queue.cpython-312.pyc",
+    "Lib/site-packages/queuelib/tests/__pycache__/test_rrqueue.cpython-312.pyc",
+    "Lib/site-packages/queuelib/tests/test_pqueue.py",
+    "Lib/site-packages/queuelib/tests/test_queue.py",
+    "Lib/site-packages/queuelib/tests/test_rrqueue.py",
+    ".nonadmin"
+  ],
+  "fn": "queuelib-1.6.2-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\queuelib-1.6.2-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "f00c3d4d4113347f1dd3d678026f6d7f",
+  "name": "queuelib",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\queuelib-1.6.2-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::queuelib==1.6.2=py312haa95532_0[md5=f00c3d4d4113347f1dd3d678026f6d7f]",
+  "sha256": "177f892224ba68911af17b812002f2f583ca57f466fcaf015d5e375a0b6e0d86",
+  "size": 34498,
+  "subdir": "win-64",
+  "timestamp": 1699543883000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/queuelib-1.6.2-py312haa95532_0.conda",
+  "version": "1.6.2"
+}

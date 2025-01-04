@@ -1,0 +1,44 @@
+{
+  "build": "hd77b12b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\re2-2022.04.01-hd77b12b_0",
+  "files": [
+    "Library/bin/re2.dll",
+    "Library/include/re2/filtered_re2.h",
+    "Library/include/re2/re2.h",
+    "Library/include/re2/set.h",
+    "Library/include/re2/stringpiece.h",
+    "Library/lib/cmake/re2/re2Config.cmake",
+    "Library/lib/cmake/re2/re2ConfigVersion.cmake",
+    "Library/lib/cmake/re2/re2Targets-release.cmake",
+    "Library/lib/cmake/re2/re2Targets.cmake",
+    "Library/lib/re2.lib",
+    ".nonadmin"
+  ],
+  "fn": "re2-2022.04.01-hd77b12b_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\re2-2022.04.01-hd77b12b_0",
+    "type": 1
+  },
+  "md5": "6c4e835222173ecd5bf0a39896690470",
+  "name": "re2",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\re2-2022.04.01-hd77b12b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::re2==2022.04.01=hd77b12b_0[md5=6c4e835222173ecd5bf0a39896690470]",
+  "sha256": "367717268b970471cd38cc0435fcede36b1cc74343e3245c48d05239f6b94479",
+  "size": 382871,
+  "subdir": "win-64",
+  "timestamp": 1652432364000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/re2-2022.04.01-hd77b12b_0.conda",
+  "version": "2022.04.01"
+}
